@@ -1,0 +1,25 @@
+{
+  "name": "redux-typescript-utils",
+  "version": "1.0.0",
+  "description": "### createAction(type: string, payloadReducer: (...args: any[]) => PayloadReducer) => ActionCreator",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/redux": "^3.6.0",
+    "immutable": "^4.0.0-rc.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nulliel/redux-typescript-utils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nulliel/redux-typescript-utils/issues"
+  },
+  "homepage": "https://github.com/nulliel/redux-typescript-utils#readme"
+}
